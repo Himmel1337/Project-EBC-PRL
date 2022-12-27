@@ -1,0 +1,3 @@
+_P		To generate random !!!! Latin text in a Word document <br> with <i> the default of 5 paragraphs and 3 sentences
+_C      Word will generate Latin text starting with Lorem ipsum.
+_L      To generate random Latin text in a document and customize the number of paragraphs and sentences:
